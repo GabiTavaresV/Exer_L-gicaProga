@@ -9,4 +9,4 @@
            
       }
 
-   (pali("reviver"));
+   pali("reviver");

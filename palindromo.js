@@ -9,4 +9,5 @@
            
       }
 
-   (pali("reviver"));
+   (pali("reviver")); // A chamada da função pode ser feita sem os parênteses em volta da chamada
+                      // Você pode chama-la assim: pali("reviver");
